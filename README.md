@@ -1,6 +1,6 @@
 
 
-# PROJETO - CHATGPT + DALLE2 API  - PROJETO WEB
+#  CHATGPT + DALLE2 - PROJETO BEM LEGAL!
 ## TUTORIAL - (Texto + Imagem GPT Next.js) + API + OPEN-AI
 
 Este é um exemplo básico de como ter um site sem servidor disponível ao público que **não** vaza sua chave API OpenAI para o público.
