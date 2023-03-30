@@ -3,6 +3,8 @@
 #  (CHATGPT + DALLE2) - PROJETO BEM LEGAL!
 ## TUTORIAL - (Texto + Imagem GPT Next.js) + API + OPEN-AI
 
+Este projeto é uma interação com a inteligência artificial da OPENAI, utilizando dois recursos, o chatgpt que é o bot de texto e o Dalle que é a inteligência artificial que gera imagens aleatórias,  nesse projeto está sendo utilizada o modelo davinci 003, mas você pode usar outros modelos.
+
 Este é um exemplo básico de como ter um site sem servidor disponível ao público que **não** vaza sua chave API OpenAI para o público.
 Basta adicionar sua chave de API OpenAI ao arquivo .env e você está pronto para ir.
 
