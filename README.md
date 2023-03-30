@@ -107,3 +107,44 @@ Adaptação e Tradução:
 ```sh
 ### - Adaptação: Everton Eduardo Vilela - EEV - "@duhvilela"
 ```
+
+## Imagens do Projeto
+```sh
+### Segue alguns prints, do projeto em execução:
+```
+
+## Passo 1 - Tela do Projeto:
+![image](https://user-images.githubusercontent.com/62842286/228988623-e0d0d451-8a5c-4197-9ca8-bfa875d48d1f.png)
+
+## Passo 2 - Rodando a aplicação:
+![image](https://user-images.githubusercontent.com/62842286/228988785-72fe9f29-9854-4ef1-b8fd-7c445d7b2fe8.png)
+
+## Passo 3 - Pagina Inicial - Localhost:3000
+![image](https://user-images.githubusercontent.com/62842286/228988931-5aa5f060-4aec-4d5c-8530-0dbe1940c7fc.png)
+
+## Passo 4 - Pagina Inicial - Modo Texto -  Pergunta Respondida !!
+![image](https://user-images.githubusercontent.com/62842286/228989054-e2b40b06-e587-4f1b-936e-f91af19f077b.png)
+
+## Passo 5 - Pagina Inicial - Modo Imagem 1 -  Gerando uma Imagem com um prompt criado pelo modo texto !
+![image](https://user-images.githubusercontent.com/62842286/228989220-cf7b5cad-eafb-43ff-a210-456ccfabdc4c.png)
+
+## Passo 6 - Pagina Inicial - Modo Imagem 2 -  Gerando a Imagem conforme o prompt acima !
+
+![image](https://user-images.githubusercontent.com/62842286/228989348-5bbaa226-a4bc-4944-9d49-dac1190fe923.png)
+
+## Passo 6 - Resumo !!
+Por enquanto é isso ,  olha quanta coisa legal dá para ser feita com esta API da Open-AI, irei continuar nos projetos, ainda vou lançar mais que roda no terminal de exemplo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
