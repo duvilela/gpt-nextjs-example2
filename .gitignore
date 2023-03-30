@@ -3,3 +3,6 @@ node_modules
 out
 build
 .DS_Store
+chatgpt-web
+.env2
+.original_files

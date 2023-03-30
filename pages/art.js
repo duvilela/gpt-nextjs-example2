@@ -28,14 +28,14 @@ export default function MyPage() {
 
   return (
     <div className="container">
-      <h1>What Do You Want a Happy Painting Of?</h1>
+      <h1>Crie uma Imagem...</h1>
+      <h5>Você pode pedir uma idéia de imagem para o colega do "Texto"....!!</h5>
       <form className="our-form" onSubmit={handleSubmit}>
-        <input className="prompt-field" type="text" onChange={handleChange} />
-        <button className="prompt-button">Go!</button>
+        <input className="prompt-field" type="text" onChange={handleChange} placeholder="Pense em alguma coisa e pergunte..." />
+        <button className="prompt-button">Vá!</button>
       </form>
 
       {isLoading && <div className="loading-spinner"></div>}
-
       {isLoading == false && <img src={answer} />}
     </div>
   )

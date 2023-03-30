@@ -28,14 +28,16 @@ export default function MyPage() {
 
   return (
     <div className="container">
-      <h1>Give Any Instruction</h1>
+      <h1>Pergunte alguma coisa !!!</h1>
+      <h5>Estou muito ansioso para te ajudar ....</h5>
+
       <form className="our-form" onSubmit={handleSubmit}>
-        <input className="prompt-field" type="text" onChange={handleChange} />
-        <button className="prompt-button">Go!</button>
+        <input className="prompt-field" type="text" onChange={handleChange}  placeholder="Pergunte-me alguma coisa..."  />
+        <button className="prompt-button">Vá!</button>
       </form>
-
+      
       {isLoading && <div className="loading-spinner"></div>}
-
+      
       <div className="answer-area">{answer}</div>
     </div>
   )
