@@ -99,6 +99,7 @@ model: "text-davinci-003" ,  ( porém existem muitas).
 Referências  
 ```sh
 Autores: (Bob Ross / Brad Schiffs)
+https://github.com/LearnWebCode/gpt-nextjs-example (original project)
 ```
 Adaptação e Tradução:
 ```sh
