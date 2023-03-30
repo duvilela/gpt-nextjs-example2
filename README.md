@@ -90,6 +90,12 @@ Modelos do ChatGPT/Dalle-2 para Testes
 https://platform.openai.com/docs/models/overview
 ```
 
+Modelo usado para teste nesse projeto
+```sh
+model: "text-davinci-003" ,  ( porém existem muitas).
+```
+
+
 Referências  
 ```sh
 Autores: (Bob Ross / Brad Schiffs)
