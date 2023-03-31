@@ -36,7 +36,7 @@ https://platform.openai.com/account/api-keys
 2. Exemplo, crie uma pasta na raíz C:
 
 ```sh
-C:\gpt-nextjs-example
+C:\gpt-nextjs-example2
 ```
 
 ## 3.0 - Atualizando sua chave API-KEY 
