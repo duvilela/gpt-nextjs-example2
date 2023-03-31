@@ -135,10 +135,6 @@ Adaptação e Tradução:
 
 ![image](https://user-images.githubusercontent.com/62842286/228989348-5bbaa226-a4bc-4944-9d49-dac1190fe923.png)
 
-## Passo 6 - Resumo !!
-Por enquanto é isso ,  olha quanta coisa legal dá para ser feita com esta API da Open-AI, irei continuar nos projetos, ainda vou lançar mais que roda no terminal de exemplo.
-
-
 
 
 
