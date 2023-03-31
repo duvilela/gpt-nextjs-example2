@@ -119,8 +119,6 @@ Adaptação e Tradução:
 ```
 
 ## Passo 1 - Tela do Projeto:
-![image](https://user-images.githubusercontent.com/62842286/228988623-e0d0d451-8a5c-4197-9ca8-bfa875d48d1f.png)
-
 ## Passo 2 - Rodando a aplicação:
 ![image](https://user-images.githubusercontent.com/62842286/228988785-72fe9f29-9854-4ef1-b8fd-7c445d7b2fe8.png)
 
