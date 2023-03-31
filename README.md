@@ -1,11 +1,9 @@
 
 
-#  (CHATGPT + DALLE2) - PROJETO BEM LEGAL!
-- Este projeto foi criado com Node.JS usando bibliotecas do React, NextJs.
-- Mas você pode criar o mesmo projeto utilizando o Python. 
+#  (CHATGPT + DALLE2)
 
-
-## TUTORIAL - (Texto + Imagem GPT Next.js) + API + OPEN-AI
+## TUTORIAL 
+- (Texto + Imagem GPT Next.js) + API + OPEN-AI
 
 Este projeto é uma interação com a inteligência artificial da OPENAI, utilizando dois recursos, o chatgpt que é o bot de texto e o Dalle que é a inteligência artificial que gera imagens aleatórias,  nesse projeto está sendo utilizada o modelo davinci 003, mas você pode usar outros modelos.
 
